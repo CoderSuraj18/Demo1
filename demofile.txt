@@ -1,0 +1,3 @@
+This is my first demo file
+
+Now we study the git
