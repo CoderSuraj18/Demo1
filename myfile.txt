@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 this is my 1st file
 
 checking
+=======
+this is second file create 
+newline
+hello world
+>>>>>>> b0abb36e319fcf035f3accc8e7cd2a8019908521
