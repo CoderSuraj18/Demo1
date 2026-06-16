@@ -1,4 +1,8 @@
 this is sorting algorithm
+Bubble Sort Algorithm
 
-
+Compare adjacent elements.
+Swap if they are in the wrong order.
+Repeat until the array is sorted.
 this is completed 
+
